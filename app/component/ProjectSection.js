@@ -6,10 +6,11 @@ import "swiper/css"
 import Image from 'next/image'
 import VillaCapucine from '@/public/BungalowCapucine.jpg'
 
+
 export default function ProjectSection(){
 
     return(
-        <div>
+        <div className="pt-24">
             <Swiper>
                 <SwiperSlide className="p-4">
                     <div className="h-t border p-4">
@@ -18,13 +19,13 @@ export default function ProjectSection(){
                             
                             alt="image du projet"
                         />
-                        <h2>Bungalow Capucine</h2>
+                        <h2 className="my-4">Bungalow Capucine</h2>
                         <p>
                         {"Le Bungalow Capucine est conçu pour un couple recherchant une petite maison intimiste et fonctionnelle, nichée au cœur d'un espace extérieur verdoyant. L'accent est mis sur la simplicité et le confort, avec des espaces bien pensés pour maximiser l'intimité et le bien-être, tout en s'intégrant harmonieusement dans la nature environnante."}
                         </p>
                     </div>
                 </SwiperSlide>
-                <SwiperSlide className="p-4">
+                {/* <SwiperSlide className="p-4">
                     <div className="h-t border">
                         <Image
                             src={VillaCapucine}
@@ -49,7 +50,7 @@ export default function ProjectSection(){
                         {"Le Bungalow Capucine est conçu pour un couple recherchant une petite maison intimiste et fonctionnelle, nichée au cœur d'un espace extérieur verdoyant. L'accent est mis sur la simplicité et le confort, avec des espaces bien pensés pour maximiser l'intimité et le bien-être, tout en s'intégrant harmonieusement dans la nature environnante."}
                         </p>
                     </div>
-                </SwiperSlide>
+                </SwiperSlide> */}
             </Swiper>
         </div>
     )
