@@ -20,7 +20,7 @@ export default function ProjectSection(){
                         />
                         <h2>Bungalow Capucine</h2>
                         <p>
-                        Le Bungalow Capucine est conçu pour un couple recherchant une petite maison intimiste et fonctionnelle, nichée au cœur d'un espace extérieur verdoyant. L'accent est mis sur la simplicité et le confort, avec des espaces bien pensés pour maximiser l'intimité et le bien-être, tout en s'intégrant harmonieusement dans la nature environnante.
+                        {"Le Bungalow Capucine est conçu pour un couple recherchant une petite maison intimiste et fonctionnelle, nichée au cœur d'un espace extérieur verdoyant. L'accent est mis sur la simplicité et le confort, avec des espaces bien pensés pour maximiser l'intimité et le bien-être, tout en s'intégrant harmonieusement dans la nature environnante."}
                         </p>
                     </div>
                 </SwiperSlide>
@@ -32,7 +32,7 @@ export default function ProjectSection(){
                         />
                         <h2>Bungalow Capucine</h2>
                         <p>
-                        Le Bungalow Capucine est conçu pour un couple recherchant une petite maison intimiste et fonctionnelle, nichée au cœur d'un espace extérieur verdoyant. L'accent est mis sur la simplicité et le confort, avec des espaces bien pensés pour maximiser l'intimité et le bien-être, tout en s'intégrant harmonieusement dans la nature environnante.
+                        {"Le Bungalow Capucine est conçu pour un couple recherchant une petite maison intimiste et fonctionnelle, nichée au cœur d'un espace extérieur verdoyant. L'accent est mis sur la simplicité et le confort, avec des espaces bien pensés pour maximiser l'intimité et le bien-être, tout en s'intégrant harmonieusement dans la nature environnante."}
                         </p>
                     </div>
                 </SwiperSlide>
@@ -46,7 +46,7 @@ export default function ProjectSection(){
                         />
                         <h2>Bungalow Capucine</h2>
                         <p>
-                        Le Bungalow Capucine est conçu pour un couple recherchant une petite maison intimiste et fonctionnelle, nichée au cœur d'un espace extérieur verdoyant. L'accent est mis sur la simplicité et le confort, avec des espaces bien pensés pour maximiser l'intimité et le bien-être, tout en s'intégrant harmonieusement dans la nature environnante.
+                        {"Le Bungalow Capucine est conçu pour un couple recherchant une petite maison intimiste et fonctionnelle, nichée au cœur d'un espace extérieur verdoyant. L'accent est mis sur la simplicité et le confort, avec des espaces bien pensés pour maximiser l'intimité et le bien-être, tout en s'intégrant harmonieusement dans la nature environnante."}
                         </p>
                     </div>
                 </SwiperSlide>
