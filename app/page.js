@@ -18,7 +18,7 @@ export default function Home() {
           className="ml-6"
         />
         <div className="flex mr-8">
-        <a href="" className="mr-4">
+        <a href="https://www.instagram.com/od.sign_fwi/profilecard/?igsh=N2QyNG1tcm96anF5" className="mr-4">
           <Image 
             src={Instagram}
             width={25}
